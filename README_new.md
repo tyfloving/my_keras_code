@@ -8,3 +8,5 @@ https://www.jianshu.com/p/477a3ebda8de
 https://blog.csdn.net/zwqjoy/article/details/80493341
 # 利用包进行调参的文章
 https://www.jianshu.com/p/35eed1567463
+# 不同的损失函数之间的差距
+https://www.jianshu.com/p/ae3932eda8f2
